@@ -9,6 +9,8 @@ I-Tung Chen and Tommy Nguyen
 
 [2] https://arxiv.org/abs/2105.02859
 
+[3] https://journals.aps.org/pra/abstract/10.1103/PhysRevA.84.065404
+
 ## Introduction 
 The IonQ trapped-ion quantum computer is among the few noisy intermediate-scale quantum (NISQ) computers available via cloud services to the general public.
 The ability to test algorithms on NISQ devices is an important tool for the advancement of quantum information science.
